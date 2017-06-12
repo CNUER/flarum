@@ -28,6 +28,10 @@
         {
             "type": "vcs",
             "url": "https://github.com/CNUER/flarum-ext-simplified-chinese.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/CNUER/flarum-ext-mentions.git"
         }
     ],
     "require": {
@@ -44,7 +48,7 @@
         "flarum/flarum-ext-likes": "^0.1.0",
         "flarum/flarum-ext-lock": "^0.1.0",
         "flarum/flarum-ext-markdown": "^0.1.0",
-        "flarum/flarum-ext-mentions": "^0.1.0",
+        "flarum/flarum-ext-mentions": "dev-master",
         "flarum/flarum-ext-pusher": "^0.1.0",
         "flarum/flarum-ext-sticky": "^0.1.0",
         "flarum/flarum-ext-subscriptions": "^0.1.0",
